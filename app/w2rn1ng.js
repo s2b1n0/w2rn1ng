@@ -24,7 +24,6 @@ class Warning {
     run(){
         // verify if language selected is supported
         if ( LANGUAGES[this.language] ){
-
             for ( let message_number in LANGUAGES[this.language] ) {
                 
                 if ( message_number == 1 ) {
@@ -39,8 +38,3 @@ class Warning {
         }
     }
 }
-
-
-
-let startApp = new Warning("es")
-startApp.run()
