@@ -1,5 +1,5 @@
 # Welcome to w2rn1ng
-This is a lib to **fast** and **easy** implementing an **warning message** about **Self-XSS** in the **browser** of your application.
+This is a lib to **fast** and **easy** implementing a **warning message** about **Self-XSS** in the **browser** of your application.
 
 ![Alt text](documentation/how_works.png?raw=true "Working")
 
