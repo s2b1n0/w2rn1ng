@@ -40,7 +40,7 @@ var Warning = /*#__PURE__*/function () {
           if (message_number == 1) {
             setTimeout(console.log.bind(console, "%c".concat(LANGUAGES[this.language][message_number]), 'color: #FF0000; font-size:80px; font-weight:bold'), 0);
           } else {
-            setTimeout(console.log.bind(console, "%c".concat(LANGUAGES[this.language][message_number]), 'color: #FFFFFF; font-size:20px; font-weight:bold'), 0);
+            setTimeout(console.log.bind(console, "%c".concat(LANGUAGES[this.language][message_number]), 'font-size:20px; font-weight:bold'), 0);
           }
         }
       } else {
