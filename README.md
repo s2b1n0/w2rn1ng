@@ -10,7 +10,8 @@ Just download **compiled/w2rn1ng-min.js** to your application js file path and a
     <script>  
       let startApp = new Warning("pt-br")  
       startApp.run()  
-    </script>```
+    </script>
+```
 
 ## Supported languages
 | Id| Language|
