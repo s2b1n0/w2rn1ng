@@ -4,9 +4,9 @@ This is a lib to **fast** and **easy** implementing an **warning message** about
 ![Alt text](documentation/how_works.png?raw=true "Working")
 
 ## Quick start
-Just download compiled/w2rn1ng-min.js to your application js file path and add the script bellow in your html file.
+Just download **compiled/w2rn1ng-min.js** to your application js file path and add the script bellow in your html file.
 
-`    <script src="<PATH>/w2rn1ng-min.js"></script>  
+`    <script src="<PATH>/w2rn1ng-min.js"></script>
     <script>  
       let startApp = new Warning("pt-br")  
       startApp.run()  
