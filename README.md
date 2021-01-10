@@ -1,13 +1,13 @@
 # Welcome to w2rn1ng
-This is a lib to **fast** and **easy** implementing a **warning message** about **Self-XSS** in the **browser** of your application.
+This is a lib to **fast** and **easy** implementing a **warning message** about **Self-XSS** in the **browser** of the users of your application.
 
 ![Alt text](documentation/how_works.png?raw=true "Working")
 
 ## Quick start
-Just download **compiled/w2rn1ng-min.js** to your application js file path and add the script bellow in your html file.
+Just download **compiled/w2rn1ng.js** to your application js file path and add the script bellow in your html file.
 
 ```    
-    <script src="<PATH>/w2rn1ng-min.js"></script>
+    <script src="<PATH>/w2rn1ng.js"></script>
     <script>  
       let startApp = new Warning("en")  
       startApp.run()  
