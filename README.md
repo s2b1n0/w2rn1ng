@@ -9,7 +9,7 @@ Just download **compiled/w2rn1ng-min.js** to your application js file path and a
 ```    
     <script src="<PATH>/w2rn1ng-min.js"></script>
     <script>  
-      let startApp = new Warning("pt-br")  
+      let startApp = new Warning("en")  
       startApp.run()  
     </script>
 ```
